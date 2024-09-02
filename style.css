@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: "Roboto Condensed", sans-serif;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 600px;
+ margin: 0;
+}
+
+button{background-color: rgb(30, 8, 92);
+       color: rgb(60, 255, 0);
+       font-family: "Handjet", sans-serif;
+}
